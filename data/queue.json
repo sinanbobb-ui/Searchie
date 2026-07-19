@@ -1,1 +1,4606 @@
-[]
+[
+  {
+    "url": "https://video.vice.com/",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.facebook.com/vice",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.reddit.com/user/vice",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/section/life",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/tag/drugs",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/tag/photography",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/tag/sex",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/tag/travel",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/section/via-vice",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/category/comedy",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/category/entertainment",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/about-vice-digital-publishing",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/vice-media-accessibility-statement",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/privacy",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/terms",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/vice-responsible-disclosure-policy",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://www.vice.com/en/fulfillment-policy",
+    "discoveredFrom": "https://www.vice.com/"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhZMt1INL2zyNI8vGa/james-franco-claims-powerful-people-tried-to-shut-him-down-before-he-released-footage-of-an-alien-at-his-home",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhPhtHUJ35q2m6hBd9/married-nashville-cop-lisa-vidrios-resigns-after-getting-caught-getting-smashed-in-a-police-car-and-middle-school-by-a-co-worker",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhl22sOttbL22rI4ep/new-photo-of-nolan-wells-at-a-pool-party-at-1am-allegedly-changes-everything-he-was-already-reported-missing-commentary",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhZAm16c6oB23N948k/joe-rogan-goes-deep-into-the-anunnaki-rabbit-hole-guest-swears-humans-were-genetically-modified-to-be-120-year-old-gold-miners",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh0Gu779x24BYS5Rtn/51-year-old-grandma-goes-viral-after-people-swear-she-and-her-38-year-old-man-look-the-same-age",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhG5rvHPDfP873vdJD/sheesh-shorty-is-fit-and-thick-at-the-same-damn-time",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh6407767ba3sS9h9f/ancient-sumerian-tablet-claims-cats-were-sent-to-earth-by-the-anunnaki-to-protect-humans-from-the-unhoused-entities",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh18g9fH5f3zO2I50o/comeback-failed-conor-mcgregor-blows-out-his-knee-seconds-into-his-main-event-fight-with-max-holloway",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh2AA5A44ldkPrIge0/all-bad-he-put-hands-on-dude-for-smoking-on-his-block",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhlNG92Marl7w15OnG/detroit-rapper-dank-demoss-drops-for-my-bitches-video-on-a-bridge-in-the-bronx-and-the-internet-has-thoughts",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhRCLnu4Vc0S42HqMi/wife-admits-to-cheating-on-her-husband-because-he-only-makes-32-an-hour-at-a-little-blue-collar-job",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhiTrB9GXmCoHVi92M/jersey-mikes-worker-praised-online-after-refusing-a-womans-demand-for-free-birthday-food",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh89j842ievbl4HE80/live-from-the-v-live-georgia-prisoner-exposes-civil-war-era-living-conditions-where-his-shoes-are-literally-floating-in-his-flooded-cell",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhpgFtsRbl4q5976M7/rio-girls-are-built-different-internet-debates-which-one-of-these-thick-beauties-theyd-choose",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh82MuDMyr3381jm32/it-was-a-knife-no-it-wasnt-charleston-white-and-vlad-argue-over-karmelo-anthonys-alleged-knife",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh1tEe9RYQcL6rGGj5/new-broadcasting-rules-ban-sexualized-camera-angles-in-womens-sports",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhzDcBUh98Ez4SU4L4/coi-leray-shows-off-her-petite-cakes",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh0512JZei4ZYNQp4R/dc-man-goes-viral-after-putting-10-federal-officers-in-a-blender-with-pro-level-football-moves-to-escape",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhxw96EH50zhfwcklt/nba-youngboy-sends-a-ruthless-message-to-gillie-da-kid-in-new-song-dissing-his-deceased-son-that-b-aint-kill-none-about-his-son",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh1m7PfofheXISVlWA/well-damn-ebro-and-rosenberg-get-into-a-heated-on-air-argument-you-a-h-e",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh66FS64L767OGv608/man-kicks-his-wife-to-the-curb-after-she-got-on-stage-with-chris-brown-how-about-now-he-take-you-down",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh3kTIKNj9eyvTxyq2/come-on-mayne-dude-gets-into-a-fight-with-a-girl-and-throws-some-hands",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshheRCi72925L459qWD/brittany-renner-admits-most-of-her-resources-come-from-men-but-claims-their-help-always-comes-with-access-to-her-vagina-as-a-stipulation",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhliUNwg6wb8Zh5NnQ/florida-man-goes-full-gta-in-pinellas-county-after-a-40-weed-deal-turns-into-a-wild-police-chase",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhh94e7ZC9i5wGlB2Q/usher-randomly-bumps-into-dave-chappelle-while-performing-in-the-crowd",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh0VW68XH5IGu5U8go/bronx-woman-swears-darkies-and-red-men-are-the-most-self-centered-now-the-internet-is-on-a-bolo-to-find-her-ig",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstarhiphop.com/videos/wshhUb8rgv6w56xSgibD/inmate-gets-rocked-so-hard-he-starts-looking-for-earrings-in-the-middle-of-a-brawl",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhU44vfXo53L3m2SA1/pure-foolery-he-tried-to-clown-on-the-gay-man-but-ended-up-getting-roasted",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshht10HH88Mv6e6zGpa/dude-at-the-tobacco-store-was-unfazed-by-bear-spray-right-in-his-face-i-eat-that-sh-t-for-breakfast",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh40rmVGcy508inV85/tom-brady-slaps-logan-paul-across-the-face-at-fanatics-fest-and-kat-has-to-break-it-up",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhi3rv357Epc6y3kjB/38-spesh-goes-off-on-jadakiss-fat-joe-and-dj-khaled-over-their-new-song-yall-should-be-rapping-about-aarp",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhdoF2iR21L66mL2RG/queen-naija-catches-clarence-in-4k-after-chat-reveals-he-was-in-dreamdolls-room-doing-what-n-ga",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh0N4Rv7lzc6XDMBB1/knockout-power-dont-mess-with-a-man-who-got-ecko-shorts-on",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhAU9X0TCzM64Pp21I/man-voluntarily-paid-baby-mama-300-a-week-asked-for-a-break-she-filed-for-child-support-and-got-13",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhao6mZ0E8Zwlqm7NR/seattles-most-prolific-booster-arrested-after-flexing-stolen-7k-louis-vuitton-bags-to-yung-miamis-spend-dat-on-tiktok",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhpCA6xAxrtlo02aDK/daphne-joy-hints-to-akademiks-she-doesnt-want-a-relationship-with-him-right-now",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhBh2pPV5TC4zLUOnB/new-jersey-woman-allegedly-s-xually-assaults-a-diaper-wearing-boy-and-posts-video-on-snapchat",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshh1UW5s1Uo9pjChsmo/judge-tells-prosecutors-theyre-gonna-lose-lil-durks-trial-and-the-whole-courtroom-burst-out-laughing",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshhlSf3PzChBYHdO411/ari-fletcher-seen-those-31-candles-on-her-birthday-cake-and-decided-to-jump-ship-literally",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/videos/wshht9lG49jE890xS3Ta/that-time-when-life-was-simple-and-the-80s-90s-kids-were-the-last-to-know-it",
+    "discoveredFrom": "https://worldstarhiphop.com/discover"
+  },
+  {
+    "url": "https://worldstar.com/submit-video",
+    "discoveredFrom": "https://worldstar.com/signup-options"
+  },
+  {
+    "url": "https://worldstar.com/profile",
+    "discoveredFrom": "https://worldstar.com/signup-options"
+  },
+  {
+    "url": "https://worldstar.com/login-options",
+    "discoveredFrom": "https://worldstar.com/signup-options"
+  },
+  {
+    "url": "https://worldstar.com/signup",
+    "discoveredFrom": "https://worldstar.com/signup-options"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/collections/all",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/customer_authentication/redirect?locale=en&region_country=US",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/collections/accessories",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/policies/shipping-policy",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/cart",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/street-style-bundle",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/sharkiesha-black-tee-sticker",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/sharkiesha-white-tee-sticker",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/limited-edition-airbrush-reaper-t-shirt",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/sharkiesha-cartoon-black-t-shirt",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/sharkiesha-cartoon-white-t-shirt",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/puff-print-staple-t-shirt",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/lyrical-again-trucker-hat",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/worldstar-black-bandana",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/products/sharkiesha-cartoon-sticker",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/instagram.com/worldstar",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC-yXuc1__OzjwpsJPlxYUCQ",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/search",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/pages/contact",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/pages/help-center",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/policies/privacy-policy",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/policies/terms-of-service",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://shop.worldstarhiphop.com/pages/withdrawal-form",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://www.armadamerch.com/",
+    "discoveredFrom": "https://shop.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/collections/all",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/customer_authentication/redirect?locale=en&region_country=US",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/pages/contact",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/pages/privacy-policy",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/cart",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/regular-video",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/home-screen-takeover",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/instagram-post",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/youtube-post",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/instagram-story",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/products/tiktok-post",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://www.shopify.com/",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/policies/privacy-policy",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://advertise.worldstarhiphop.com/policies/contact-information",
+    "discoveredFrom": "https://advertise.worldstarhiphop.com/"
+  },
+  {
+    "url": "https://contact.worldstar.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://deals.worldstarhiphop.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "http://www.aboutads.info/choices",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://preferences-mgr.truste.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://adssettings.google.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://youradchoices.com/token",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://facebook.com/ads/ad_choices",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.33across.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.acuityads.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.adcolony.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.google.com/adsense/start",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.adtheorent.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://advertising.amazon.com/resources/library/basics-of-success-understanding-amazon-advertising?tag=googhydr-20&hvadid=473359097901&hvpos=&hvexid=&hvnetw=g&hvrand=5918306443612975949&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9025154&hvtargid=kwd-313057751&ref=pd_sl_3sp75h3bec_e_sspa_ggl_d_us_ct_%7Bcreative",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.applovin.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.xandr.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.beachfront.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://branch.io/policies",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://consumable.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.display.io/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://about.disqus.com/advertise",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.dmxmarketing.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.edge226.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://enginemediaexchange.com/solutions-for-sellers",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://emxdigital.com/press/brealtime-and-clearstream-have-merged-to-form-emx-a-new-digital-media-marketplace",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.facebook.com/business/ads?content_id=thVhl4Ss3zguODY&ref=sem_smb&utm_content=Advertising_Evaluating&kenid=_k_CjwKCAiAv4n9BRA9EiwA30WND33pjNM083j14v0efncxXL4uMk1Q_QWJuk9iZApIaSlq-sEkF-rTlRoCnt0QAvD_BwE_k_&utm_term=facebook+advertising&utm_ct=EVG",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://firebase.google.com/support/privacy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.flurry.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.fyber.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://ads.google.com/intl/en_us/getstarted?subid=us-en-ha-awa-bk-c-co%21o3%7ECj0KCQjw59n8BRD2ARIsAAmgPmIussq0Nx0GetQ696a6QVZTQrWJE_LtMjmroP1cdexW88cLa6_LAOMaAgroEALw_wcB%7E80572985271%7Ekwd-22848813788%7E6481130817%7E445804224861",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://gumgum.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.iab.com/privacy-policy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.indexexchange.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.indieai.com/privacy-policy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.infolinks.com/advertisers",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://initiative.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.inmobi.com/advertising-cloud/in-app-monetization",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://jampp.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://kinhr.com/privacy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://liveramp.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://optout.liveramp.com/opt_out",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://liveramp.com/opt_out",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.magnite.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://mixpanel.com/legal/privacy-policy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.mobfox.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://mobilefuse.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.mopub.com/en/legal/privacy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.ninthdecimal.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.openx.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://pubmatic.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://pubnative.net/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.quantcast.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://resetdigital.co/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.revcontent.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.smaato.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.smadex.com/mobile-advertising",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.studio71.com/us/services",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.splunk.com/en_us/legal/privacy/privacy-policy.html",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.stellar.aero/privacypolicy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://stem.is/youtube-marketing-2018-guide",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.tapdaq.com/analytics",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.tapjoy.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://trioninteractive.com/s/staticSSP.php",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://triplelift.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.tune.com/resources/data-and-privacy/privacy-policies",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.underdogmedia.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://unityads.unity3d.com/help/index",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.verizon.com/solutions-and-services/apps/advertise-with-us",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.verizonmedia.com/advertising",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://verve.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://vungle.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.adsoftheworld.com/creative/yappa",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.youtube.com/ads?subid=us-en-ha-yt-bk-c-plt%21o3%7ECjwKCAiAv4n9BRA9EiwA30WND33V3-mu2T03Azq9jEQGFsBc0N5ZhKNSEhUmLoIau5JMrodrhcFl8hoC_zcQAvD_BwE%7E%7Badgroup%7D%7Ekwd-5020163344%7E1695551494%7E437059550324&gclsrc=aw.ds",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://www.zergnet.com/info",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en-GB",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://support.mozilla.org/en-US/kb/block-websites-storing-cookies-site-data-firefox",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://tools.google.com/dlpage/gaoptout",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://about.ads.microsoft.com/en-us/resources/policies/personalized-ads",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "http://choice.microsoft.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://allaboutdnt.com/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "http://www.media-lab.ai/",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://medialab.la/do-not-sell-my-personal-information",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://contact.worldstar.com/hc/en-us/articles/25632693260955-Digital-Services-Act-DSA-Contact-Information-for-WorldStarHipHop-Users-and-Authorities",
+    "discoveredFrom": "https://worldstar.com/privacy-policy"
+  },
+  {
+    "url": "https://wshhp.zendesk.com/hc/en-us/requests/new",
+    "discoveredFrom": "https://worldstar.com/terms-of-service"
+  },
+  {
+    "url": "https://www.medialab.la/terms-of-service",
+    "discoveredFrom": "https://worldstar.com/terms-of-service"
+  },
+  {
+    "url": "https://contact.worldstar.com/hc/en-us/requests/new",
+    "discoveredFrom": "https://worldstar.com/terms-of-service"
+  },
+  {
+    "url": "https://www.copyright.gov/title17/92chap5.html",
+    "discoveredFrom": "https://worldstar.com/terms-of-service"
+  },
+  {
+    "url": "https://www.jamsadr.com/",
+    "discoveredFrom": "https://worldstar.com/terms-of-service"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/ipad/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/mac/discover",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/vision/apps-and-games",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/watch/apps-and-games",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/tv/discover",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/games",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/apps",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/arcade",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/developer/worldstar-llc/id525958090?platform=iphone",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/525958087?see-all=reviews&platform=iphone",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "http://worldstarhiphop.com/videos/privacy.php",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/story/id1539235847",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/story/id1538632801",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/story/id1814164299",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/story/id1825160725",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/story/id1436214772",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "http://www.worldstarhiphop.com/",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/525958087?see-all=customers-also-bought-apps&platform=iphone",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/scoopz-your-people-your-video/id6449206831",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/the-nyx-network/id6462672843",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/players-lounge/id1628903930",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/ucult/id6745483152",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/tonights-conversation/id1599497175",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/abpv-americas-best-pics-vids/id1500918157",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/now-thats-tv/id1614775330",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/gamersaloon/id951094528",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/allblk-tv-film/id1032488115",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/bet-now-watch-shows/id841118013",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=es-MX",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=ar",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=ru",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=zh-Hans-CN",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=fr-FR",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=ko",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=pt-BR",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=vi",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087?l=zh-Hant-TW",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/dz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ao/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/am/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/az/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bh/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bj/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bf/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cv/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/td/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ci/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cd/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/eg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ga/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gh/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/in/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/iq/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/il/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/jo/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ke/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lb/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ly/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ml/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mu/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ma/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/na/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ne/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ng/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/om/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/qa/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/rw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/st/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sa/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sc/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sl/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/za/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tj/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ae/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ug/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ye/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/zm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/zw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/af/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/au/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kh/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/fj/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/hk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/id/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/jp/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/la/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mo/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/my/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mv/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/fm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/nr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/np/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/nz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ph/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sb/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tw/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/th/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/to/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/uz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/vu/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/vn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/al/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/at/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/by/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/be/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ba/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/hr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cy/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/dk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ee/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/fi/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/fr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ge/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/de/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/hu/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/is/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ie/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/it/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/xk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lv/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lu/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/md/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/me/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/nl/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/no/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pl/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ro/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ru/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/rs/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sk/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/si/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/es/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/se/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ch/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ua/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gb/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ai/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ag/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ar/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bs/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bb/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bz/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/bo/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/br/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/vg/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ky/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cl/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/co/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/cr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/dm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/do/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ec/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sv/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gd/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/gy/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/hn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/jm/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/mx/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ms/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ni/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pa/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/py/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/pe/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/kn/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/lc/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/vc/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/sr/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tt/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/tc/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/uy/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ve/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ca/iphone/today",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/ca/iphone/today?l=fr-CA",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=es-MX",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=ar",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=ru",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=zh-Hans-CN",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=fr-FR",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=ko",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=pt-BR",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=vi",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://apps.apple.com/us/iphone/today?l=zh-Hant-TW",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://www.apple.com/",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://www.apple.com/legal/internet-services",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://www.apple.com/legal/privacy/data/en/app-store",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://www.apple.com/privacy/use-of-cookies",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://support.apple.com/billing",
+    "discoveredFrom": "https://apps.apple.com/us/app/worldstar-hiphop-videos-news/id525958087"
+  },
+  {
+    "url": "https://www.vice.com/en/article/send-ludes-this-week-on-vice-members-only",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/womo",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/emma-garland",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-quiet-curious-return-of-quaaludes",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/harder-culture",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/mattha-busby",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/why-pokemon-card-traders-are-buying-guns-the-pokestreetz-are-not-for-the-weak",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/edwin-oconnell",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/durbans-taxi-ravers-are-summoning-ghosts-with-bass",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/vice-magazine",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/odous",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/every-weird-french-carnival-needs-its-queen",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/nick-thompson",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/bryan-johnson-and-jordan-castro-on-ai-god-and-why-psychosis-will-soon-be-the-new-normal",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/membership",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/adam-christopher-smith",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/i-turned-a-police-station-in-myanmar-into-a-tattoo-studio",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/ben-ditto",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/vice-magazine-self-destruction-issue-pre-order",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/kev-kharas",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/health",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-truth-about-whether-sleepcations-are-dangerous-according-to-an-insomnia-therapist",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/music",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/drake-once-admitted-to-not-wanting-to-sign-with-a-major-label-long-before-he-took-them-to-court",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/10-southern-hip-hop-classics-every-millennial-knows-and-loves",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/who-is-better-jay-z-or-kanye-west-dame-dash-said-its-not-even-a-debate",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/rick-ross-says-hell-never-trash-his-classics-with-drake-despite-their-beef-we-aint-on-no-he-st",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/gaming",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/1989-8-bit-rpg-is-coming-to-ps5-and-nintendo-switch-2",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/xbox-users-gta-6-pre-orders-free",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/magic-all-2027-set-release-dates-revealed",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/science",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/why-your-dog-sunbathes-even-when-its-dangerously-hot-and-the-warning-signs-theyre-overheating",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/god-of-war-laufey-star-responds-kratos-backlash",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/membership",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-issue-with-photos-comic-by-allee-erico",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/allee-errico",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/how-my-friend-got-sacked-from-the-cemetery",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/rob-kay",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/why-ai-slop-is-an-easy-scapegoat",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/mat-dryhurst",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/how-scientists-learned-a-550-million-year-old-sea-creature-was-right-handed",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/luis-prada",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/crime-reporter-reveals-how-burglars-choose-which-homes-to-target-and-the-one-mistake-that-invites-them-in",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/ashley-fike",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/whats-your-spending-personality-heres-how-to-tell-according-to-an-expert",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/sammi-caramela",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/this-vr-app-teaches-you-to-dance-without-letting-anyone-watch-you-struggle",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/tech",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/ai-powered-teddy-bears-for-kids-are-here-and-experts-say-they-could-do-more-harm-than-good",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/gen-z-is-bringing-cds-back-but-theyre-missing-one-important-piece-of-the-puzzle",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/stephen-andrew-galiher",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/new-music-friday-5-songs-you-need-to-hear-this-week-7-17",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/lebron-james-calls-jay-z-his-big-brother-after-taking-his-side-in-his-feud-against-drake",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/caleb-catlin",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/all-fortnite-sprites-currently-available",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/brent-koepp",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/two-fallout-remasters-are-officially-confirmed",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/denny-connolly",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/dungeons-and-dragons-reveals-9-new-magical-faction-backgrounds-and-origin-feats",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/weekly-horoscope-july-19-july-25",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/daily-horoscope-july-17-2026",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/daily-horoscope-july-16-2026",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/via/what-are-clip-on-earbuds",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/via/tech-via",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/matt-jancer-2",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/via/fresh-bros-thca-flower-box",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/via/cannabis-via",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/maha-haq",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/ysolt-usigan",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/via/hisense-u8-4k-tv-deal-july-2026",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/adam-sandler-got-permission-to-actually-clobber-kids-for-this-beloved-comedy-hurting-kids-is-funny",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/tony-alpsen",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/56-years-ago-domestic-terrorists-accidentally-blew-up-dustin-hoffmans-house",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/patton-oswalt-on-his-new-stand-up-special-things-that-havent-aged-well-and-doing-comedy-for-almost-40-years-exclusive",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/scientists-just-discovered-a-new-monkey-species-hiding-in-the-congo-rainforest",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-u-s-wants-to-turn-abandoned-oil-rigs-into-spaceports",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/category/believe-it-or-not",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/people-with-aphantasia-cant-visualize-anything-so-how-do-they-dream",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/what-is-messi-ng-the-world-cup-dating-trend-behind-a-spike-in-matches",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-top-3-sexiest-sleaziest-rock-songs-of-the-late-2000s",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/lauren-boisvert",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/this-beloved-millennial-pop-star-wants-to-make-jewelry-with-your-teeth-for-real",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/4-of-the-saddest-shoegaze-songs-of-all-time",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/today-in-1998-more-than-100000-fans-gathered-in-minneapolis-for-a-free-show-on-beloved-indie-bands-chaotic-tour",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/en/article/on-this-day-in-2015-future-released-the-album-that-made-him-one-of-the-most-beloved-rappers-in-hip-hop",
+    "discoveredFrom": "https://www.vice.com/en"
+  },
+  {
+    "url": "https://www.vice.com/id/article/beneran-ada-wni-pindah-kewarganegaraan-akibat-maraknya-polarisasi-politik",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/prima-sulistya",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/category/societe",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/taman-pemakaman-di-paraguay-yang-sering-dijarah",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/aurelien-buttin",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/anker-bekasi-betulan-bikin-peringatan-100-hari-matinya-eskalator-stasiun",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/wawancara-alan-walker-putri-ariani-lagu-baru-who-i-am",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/kami-bertemu-sosok-di-balik-pundingin-pakar-ac-jujukan-netizen",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/muhammad-ishomuddin",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/eskalator-mati-stasiun-bekasi-protes-fasum-rusak-viral-gerakan-netizen",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/tiktoker-haritsu-spesialis-masak-jorok",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/dorjee-wangmo",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/kisah-kelahiran-anak-harimau-sumatra-di-kebun-binatang-roma",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/duo-penari-hip-hop-twineester-beberkan-siasat-anak-muda-aceh-rayakan-hidup",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/titah-aw",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/israel-iklan-propaganda-google-ads-sidang-genosida-mahkamah-internasional-afrika-selatan",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/jules-roscoe",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/kesaksian-penumpang-jelang-adu-banteng-ka-turangga-dan-commuter-line-bandung-raya",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/article/patah-hati-kedua-seorang-ibu",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/contributor/febfi-setyawati",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/page/2",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/category/health",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/id/category/music",
+    "discoveredFrom": "https://www.vice.com/id"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/predstavujeme-ceskeho-fotografa-ktery-fotil-nejvetsi-jmena-soucasneho-rapu",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/simona-luhova",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/podivejte-se-jak-nas-redaktor-presvedcil-lidi-z-modniho-prumyslu-ze-je-navrharska-hvezda",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/vcelpo-na-navsteve-ve-voskovem-muzeu-vcelky-maji",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/hannah-saleh",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/nike-a-fotbalove-dresy-20-let-dozadu-ale-porad-1000-let-napred",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/vice-x-queens",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/cesta-do-nejhorsich-zakouti-temneho-webu",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/max-daly",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/je-tezke-byt-mlady-v-zemi-ktera-neexistuje",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/thomas-vorreyer",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/seznamte-se-s-poulicni-prodejkyni-z-bangkoku-ktera-ziskala-michelinskou-hvezdu",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/claire-handleman",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/vase-plastove-odpadky-zabijeji-spoustu-ptacat",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/harriet-renn",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/flora-olomouc-jak-to-vypada-na-nejvetsi-ceske-vystave-kvetin",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/jak-se-studuje-vysoka-ve-valecne-zone",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/ahmed-abu-draa",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/fotky-mista-ktere-nekteri-povazuji-za-biblickou-rajskou-zahradu",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/tamara-abdul-hadi",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/article/mademe-a-converse-vzkrisili-legendarni-devadesatkove-platformy",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/contributor/vice-staff-de",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/page/2",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/category/health",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/cs/category/music",
+    "discoveredFrom": "https://www.vice.com/cs"
+  },
+  {
+    "url": "https://www.vice.com/da/article/scorer-man-bedst-som-dfer-laer-eller-enhedslisten-vaelger-jeg-testede-det-paa-tinder-broadly",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/maria-brus-pedersen",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/vi-snakkede-med-folkene-bag-nogle-af-danmarks-vildeste-patenter",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/sebastian-johan-lund",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/chanelbigs-tager-lillebittebock-og-baby-bino-med-i-kiosken-i-sin-nye-video",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/lasse-cato",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/saadan-crowdfundede-vi-vores-kombucha-bar-paa-noerrebro",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/simon-espholm",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/de-her-tre-kvinder-samarbejder-og-derfor-lykkes-de-broadly",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/shani-pedersen",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/lene-munk",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/paris-hilton-tog-en-100-aarig-mand-med-til-en-lil-pump-koncert",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/josh-terry",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/opskrift-saadan-laver-du-din-egen-oste-calzone",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/frank-pinello",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/kenton-slash-demons-nye-video-er-til-alle-jer-syntetiske-planter-paa-dansegulvet",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/alfred-maddox",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/jeg-tog-til-malmoe-og-forspiste-mig-i-sveriges-falafel-hovedstad",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/amalie-thieden",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/crystal-meth-er-aabenbart-en-almindelig-nytaarsgave-i-nordkorea",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/gavin-butler",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/for-himlens-skyld-lad-nu-vaere-med-at-spise-den-roede-voks-paa-babybel-oste",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/bettina-makalintal",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/article/derfor-tisser-nogle-mennesker-meget-oftere-end-andre-broadly",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/contributor/kate-willsky",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/page/2",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/category/health",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.vice.com/da/category/music",
+    "discoveredFrom": "https://www.vice.com/da"
+  },
+  {
+    "url": "https://www.instagram.com/vice_de",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.facebook.com/vicede",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/von-der-nazi-festung-zum-techno-bunker-ein-blick-in-den-hamburger-st-pauli-bunker",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/menschen",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/maliyi-bulun-finding-mali",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/matern-boeselager",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/wie-ich-in-russland-den-ganz-falschen-weg-einschlug",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/manuel-freundt",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/tech",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/blutige-nippel-oder-algorithmen-toten-meine-seele",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/lisa-ludwig",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/fotos-happchen-hightech-und-der-tod",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/tim-geyer",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/vorsatze-fur-das-ende-der-welt",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/anna-sophie-dreussi",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/fotos-crystal-und-uran-im-erzgebirge",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/felix-adler",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/sex",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/wie-ich-bei-einem-fetischdreh-eine-ungewohnliche-familie-kennenlernte",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/anika-knudsen",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/unsterblich-werden-mit-aubrey-de-grey",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/alexandra-theis",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/geheimnisse-streit-versohnung-repeat",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/berivan-kilic",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/shot-by-vice-fotos-aus-unserem-archiv",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/article/wie-mein-hund-eine-besondere-bekanntschaft-machte",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/contributor/negar-ghalamzan",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/page/2",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/health",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.vice.com/de/category/music",
+    "discoveredFrom": "https://www.vice.com/de"
+  },
+  {
+    "url": "https://www.instagram.com/viceenespanol",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.youtube.com/user/viceenespanol",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.facebook.com/viceenespanol",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/actualidad",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/podemos-hacer-grandes-cosas-al-pensar-en-pequeno-asi-es-como-la-computacion-cuantica-cambiara-el-mundo",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/onlyfans-quien-responde-por-tu-dinero-y-tu-imagen",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/mijail-miranda-zapata",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/vannesa-valverde-santos",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/julio-clondonoa",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/si-eres-mujer-o-una-persona-racializada-te-estan-vigilando",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/rosa-chavez-yacila",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/ivana-mondelo",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/nadia-gomez",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/vigilados-en-la-cancha",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/nadia-rodriguez",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/margaret-lopez",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/bruno-scelza",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/lisandra-aguilar",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/sexo",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/tengo-esquizofrenia-asi-afecta-vida-sexual",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/mark-hay",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/como-succionar-clitoris-apropiadamente",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/shamani-joshi",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/salud",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/por-que-odias-celebrar-tu-cumpleanos",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/vincenzo-ligresti",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/tecnologia",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/tu-gato-es-psicopata-probablemente-dicen-investigadores",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/samantha-cole",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/musica",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/tropico-2021-de-vuelta-al-paraiso-en-acapulco",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/cynthia-salazar",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/ricos-realmente-divierten-mas-resto-nosotros",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/tim-fraanje",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/estoy-mal-preferir-encuentros-casuales-antes-relaciones-serias",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/djanlissa-pringels",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/article/un-futuro-sin-cigarrillos-en-mexico",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/contributor/gio-franzoni",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/page/2",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/health",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.vice.com/es/category/music",
+    "discoveredFrom": "https://www.vice.com/es"
+  },
+  {
+    "url": "https://www.instagram.com/vice_france",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.facebook.com/VICEFrance",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/un-billet-de-sortie-de-la-manosphere-sil-vous-plait",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/de-bunker-nazi-a-un-temple-de-techno",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/decouvrez-la-fraysexualite-cette-orientation-sexuelle-qui-pourrait-expliquer-pourquoi-vous-vous-ennuyez-si-vite",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/tu-sais-quand-tu-saignes-mais-pas-pourquoi-et-on-en-profite-pour-gagner-de-largent",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/jai-passe-15-mois-sur-une-ile-deserte",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/contributor/julian-morgans",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/jetais-une-actrice-porno-durant-lage-dor-de-lindustrie",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/jai-eu-un-petit-ami-ia-pendant-un-mois",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/jmail-hackez-le-compte-mail-de-jeffrey-epstein",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/lusine-a-contenu-jai-echappe-le-culte-dandrew-tate",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/derriere-lobjectif-de-maria-marrone",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/contributor/vice-staff-2",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/category/sexe",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/ejaculation-cumshots",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/contributor/eloise-hendy",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/category/societe",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/article/tout-reapprendre-ce-quarreter-lalcool-change-dans-la-vie-amoureuse",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/contributor/gabrielle-trottmann",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/page/2",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/category/health",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.vice.com/fr/category/music",
+    "discoveredFrom": "https://www.vice.com/fr"
+  },
+  {
+    "url": "https://www.instagram.com/viceitaly",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.facebook.com/vice.italia",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/un-biglietto-dalla-magnosphere-per-favore",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/scopri-la-frayseksualita-lorientamento-sessuale-che-potrebbe-spiegare-perche-ti-annoi-cosi-in-fretta",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/ho-trascorso-15-mesi-su-unisola-deserta",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/julian-morgans",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/category/cibo",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/cocktail-bar-roma-cocktail-vini-di-frutta",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/andrea-strafile",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/perche-tinashe-balla-al-suo-stesso-ritmo",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/alisha-archie",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/coppie-di-chef-spiegano-come-fanno-sesso",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/paola-buzzini",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/distributore-che-ha-cambiato-il-mondo-del-vino",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/mangiare-cucina-est-roma",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/gian-mario-bachetti",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/caffe-infusi-alla-frutta",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/sono-stato-in-una-spa-dove-puoi-fare-trattamenti-alla-grappa",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/carlo-gibertini",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/acquavite-sostenibile-viterbo",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/sebastiano-alessandroni",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/article/reis-ristorante-sostenibile-cuneo",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/contributor/giulia-grimaldi",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/page/2",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/category/health",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.vice.com/it/category/music",
+    "discoveredFrom": "https://www.vice.com/it"
+  },
+  {
+    "url": "https://www.instagram.com/vicenl",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.facebook.com/vicenederland",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/everybodies-dance-sara-dziri-x-not-your-techno",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/een-ticket-uit-de-manosphere-alsjeblieft",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/van-nazifort-tot-technobunker-een-kijkje-in-de-st-pauli-bunker-in-hamburg",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/yoshi-sodeoka-presenteert-isoray-een-videoprojectie-op-de-80-meter-hoge-koeltoren-van-horst-arts-music-festival",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/maak-kennis-met-frayseksualiteit-de-seksuele-geaardheid-die-zou-kunnen-verklaren-waarom-je-je-zo-snel-verveelt",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/ray-fuego-grgy-en-skyeindy-over-stijl-samenwerken-en-het-blank-canvas-project-van-puma",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/je-brein-is-geen-beton-hoe-neuroplasticiteit-ons-verandert-en-redt",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/je-weet-wanneer-je-bloedt-maar-niet-waarom-en-daar-wordt-geld-aan-verdiend",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/ik-bracht-15-maanden-door-op-een-onbewoond-eiland",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/contributor/julian-morgans",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/roxy-de-club-in-amsterdam-waar-alles-kon",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/ik-had-een-maand-lang-een-ai-vriendje",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/article/alles-opnieuw-leren-wat-stoppen-met-alcohol-verandert-in-het-liefdesleven",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/page/2",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/category/health",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/nl/category/music",
+    "discoveredFrom": "https://www.vice.com/nl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/w-poszukiwaniu-naturalnego-haju-w-gorach-japonii",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/jak-robilem-sztuczna-sperme-do-filmu-porno",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/zajrzyj-do-srodka-opuszczonych-wloskich-palacow",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/contributor/vincenzo-ligresti",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/ile-zanieczyszczen-wdychasz-gdy-jezdzisz-rowerem-po-miescie",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/pierwsze-jawne-malzenstwo-kobiet-ktore-pracuja-razem-w-legalnym-burdelu",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/tetniace-kolorami-zdjecia-ukazujace-odrodzenie-portoryko",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/contributor/elizabeth-renstrom",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/poznaj-druzyne-pilkarska-syryjczykow-po-amputacjach",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/moj-pierwszy-dzien-na-planie-spersonalizowanego-porno-dla-fetyszystow",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/popoludnie-z-nastoletnimi-skejterami-ze-srodmiescia-paryza",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/zrobilem-sobie-botoks-u-najgorzej-ocenianego-chirurga-plastycznego-w-miescie",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/gwiazda-porno-mowi-jak-radzi-sobie-z-hejtem",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/article/fetysz-i-rave-bylismy-w-lodzi-na-zamknietej-imprezie-dla-fetyszystow",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/contributor/pawel-maczewski",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/page/2",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/category/health",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pl/category/music",
+    "discoveredFrom": "https://www.vice.com/pl"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/tecnologia",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/anime-sua-proxima-reuniao-virtual-da-firma-com-uma-cabra-de-verdade",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/samantha-cole",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/um-artigo-sobre-ai-publicado-num-grande-jornal-cientifico-estava-cheio-de-frenologia",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/edward-ongweso-jr",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/12-argumentos-que-todo-negacionista-do-clima-usa-e-como-refuta-los",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/imogen-west-knights",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/sexo",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/16-maneiras-simples-de-apimentar-o-sexo-baunilha",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/penda-ndiaye",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/games",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/among-us-nao-e-so-o-jogo-de-2020-e-2020-o-jogo",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/sean-sands",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/entretenimento",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/quem-curte-filmes-de-terror-esta-lidando-melhor-com-a-pandemia-diz-estudo",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/jelisa-castrodale",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/a-mafia-italiana-esta-no-tiktok",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/enrico-nocera",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/dario-davino",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/saude",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/a-pandemia-criou-um-novo-tipo-de-medo-de-estar-perdendo",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/hannah-smothers",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/o-estupro-roubou-meus-orgasmos-foi-assim-que-eu-os-consegui-de-volta",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/jemah-finn",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/a-quarentena-me-ajudou-a-entender-melhor-minha-identidade-de-genero",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/nick-levine",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/mortes-pela-policia-despencaram-nas-favelas-do-rio-desde-a-proibicao-da-entrada-de-policiais",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/natalia-scarabotto",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/article/meu-toc-me-deixa-ansiosa-com-sujeira-e-assim-que-faco-sexo",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/contributor/mark-hay",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/page/2",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/health",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.vice.com/pt/category/music",
+    "discoveredFrom": "https://www.vice.com/pt"
+  },
+  {
+    "url": "https://www.instagram.com/viceromania",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.facebook.com/viceromania",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/%ce%b4%ce%b9%ce%b1%cf%83%ce%ba%ce%ad%ce%b4%ce%b1%cf%83%ce%b7",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/povesti-horror-de-craciun-cu-familia",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/serena-smith",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/stiri",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/cum-facem-sa-nu-mai-cada-tencuiala-peste-noi-in-romania",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/mihai-popescu",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/food",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/ce-naiba-e-amuse-bouche",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/eliza-dumais",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/ce-a-insemnat-vice-romania-pentru-noi",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/vice-romania",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/9-oameni-care-au-schimbat-cursul-istoriei-prin-arta-lor",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/7-creatii-artistice-si-artisti-care-au-inspirat-la-randul-lor-alte-demersuri-artistice",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/tech",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/cum-poti-sa-transformi-desenele-tale-de-craciun-in-cadouri-pentru-copiii-care-au-nevoie-de-ele",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/arheologii-au-descoperit-aproape-de-romania-o-societate-preistorica-complexa",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/jordan-pearson",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/interviu-valeriu-expozitie-noptile-de-clubbing-ritualurile-din-preistorie",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/life",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/de-ce-oameni-isi-verifica-telefonul-in-timpul-sexului",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/contributor/eloise-hendy",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/povestile-de-la-summer-well-chronicles-chasing-summer",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/article/concert-ioana-milculescu-control",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/page/2",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/health",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ro/category/music",
+    "discoveredFrom": "https://www.vice.com/ro"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/dobro-pozhalovat-na-strashno-seryoznyj-evropejskij-muzykalnyj-konkurs-ot-vice",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/vice-staff-de",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/vot-vse-nelovkie-chuvstva-kotorye-vy-ispytyvaete-vlyublyayas",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/dzhulian-morgans",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/zaklyuchennye-delyatsya-kak-oni-provodyat-den-svyatogo-valentina-v-tyurme",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/mahmud-fazal",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/o-chyom-my-ne-govorim-kogda-govorim-o-materinstve",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/marta-bausels",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/tvoj-kontrolnyj-spisok-zdravomysliya-na-2019-god",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/raul-pundzhabi",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/lsd-menyaet-to-kak-my-vosprinimaem-vremya",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/shajla-lav",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/istoriya-sdabrivaniya-edy-sokom-bobra-iz-zadnicy",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/nadya-bernshtejn",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/kaming-aut-kak-seks-rabotnika-kaming-aut-kak-cheloveka",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/liara-ru",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/chemu-svidaniya-s-muzhchinami-postarshe-nauchili-menya-o-vlasti-i-vlechenii",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/emi-anderson",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/millenialy-rasskazyvayut-o-vozvrashenii-k-roditelyam",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/ellison-terni",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/uzhasnoe-budushee-lesnyh-pozharov-v-kalifornii-stanet-eshe-huzhe",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/contributor/koul-kazdin",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/article/temnaya-pravda-kotoraya-kroetsya-za-nashej-oderzhimostyu-zabotoj-o-sebe",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/page/2",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/category/health",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.vice.com/ru/category/music",
+    "discoveredFrom": "https://www.vice.com/ru"
+  },
+  {
+    "url": "https://www.instagram.com/vice_serbia",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.facebook.com/vicesrbija",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/politika",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/zasto-su-mnogi-afrikanci-uz-rusiju-u-ukrajinskom-konfliktu-a-i-sire",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/rnp-f",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/litijum-ili-poljoprivreda-mitovi-i-mimovi-u-sluzbi-liberalne-propagande-u-srbiji",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/foto",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/openai-i-microsoft-tuzeni-za-3-milijarde-dolara-zbog-navodnih-krsenja-privatnosti-chatgpt-a",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/chloe-xiang",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/ljudi-su-nam-pokazali-najgore-poruke-preko-kojih-su-ih-ostavili",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/rachel-barker",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/tech",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/besmislene-knjige-koje-generise-vestacka-inteligencija-stigle-su-na-amazonove-liste-bestselera",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/jules-roscoe",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/upotreba-kokaina-skace-kao-nenormalna-navodi-se-u-izvestaju",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/manisha-krishnan",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/identiteit",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/vezbanje-je-tesko-kad-si-debeo-i-to-ne-iz-razloga-iz-kojih-mislite",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/lucie-inland",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/%ce%bd%ce%b1%cf%81%ce%ba%cf%89%cf%84%ce%b9%ce%ba%ce%ac",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/drogirala-sam-se-svakog-vikenda-evo-kako-sam-shvatila-da-imam-problem",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/janna-nieuwenhuijzen",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/life",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/saveti-kako-izdrzati-vrucinu-od-ljudi-koji-rade-na-vrelim-poslovima",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/gwen-van-der-zwan",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/novi-evropski-kokainski-karteli-zasto-holandski-premijer-vise-ne-ide-biciklom-na-posao",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/mitchell-prothero",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/zasto-je-volan-na-nestaloj-podmornici-bio-kontroler-za-igrice",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/matthew-gault",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/article/simparizeri-isis-a-planirali-da-napadnu-povorku-ponosa-u-becu-javlja-policija",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/contributor/tim-hume",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/page/2",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/health",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sr/category/music",
+    "discoveredFrom": "https://www.vice.com/sr"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/eurovision-is-cancelled-so-vote-on-our-alternative-competition-instead",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/vice-staff-de",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/foton-paa-unga-venezuelaner-som-protesterar-i-caracas",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/iradj-abedi",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/foton-fraan-ebolakrisens-epicentrum",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/gael-cloarec",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/bilder-fraan-det-ukrainska-militarlagret-dar-barn-tranades-for-att-doda",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/mirjana-milovanovic",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/en-svensk-dagbok-fraan-kriget-mot-is",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/jag-laatsades-vara-en-ung-josef-stalin-paa-tinder-och-det-gick-forvaanansvart-bra",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/paul-schwenn",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/dragon-gate-fraan-spokpalats-till-rave",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/jonas-gronvik",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/levande-bilder-som-visar-hur-mellanostern-verkligen-ar",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/zainab-hussein",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/darude-representerar-finland-i-eurovision-saa-nu-har-du-antligen-en-anledning-att-se-det",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/alfred-maddox",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/en-intervju-med-personerna-bakom-facebook-eventet-vi-tar-skaane-tillbaka",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/theis-duelund",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/wheelies-och-kraschar-med-frankrikes-tonaaringar-paa-hojar",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/theo-campredon",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/article/har-ar-de-mest-romantiska-bilderna-paa-skejtare-du-kommer-se-den-har-veckan",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/contributor/elena-viale",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/page/2",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/category/health",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.vice.com/sv/category/music",
+    "discoveredFrom": "https://www.vice.com/sv"
+  },
+  {
+    "url": "https://www.instagram.com/vice_gr",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.youtube.com/@vicegreece5817",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.facebook.com/ViceGreece",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%ce%bd%ce%b1%cf%81%ce%ba%cf%89%cf%84%ce%b9%ce%ba%ce%ac",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/aerio-gelioy-mia-analysh-gia-ena-periergo-narkwtiko",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/simon-doherty",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%ce%b4%ce%b9%ce%ba%ce%b1%ce%b9%cf%8e%ce%bc%ce%b1%cf%84%ce%b1",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/meta-thn-ergasia-sto-se3-otan-mia-a8lia-nomo8esia-katadikazei-se-oriakh-zwh-me-syxna-dramatiko-finale",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/ale3hs-gaglias",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/mporei-enas-xwrismos-na-einai-kati-poly-kalo",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/jasmine-wallis",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%ce%b4%ce%b9%ce%b1%cf%83%ce%ba%ce%ad%ce%b4%ce%b1%cf%83%ce%b7",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/ergasiakes-symboyles-gia-millennials-apo-efhboys",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/heloise-shadbolt",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/giati-yparxoyn-toses-polles-8easeis-ufo-konta-se-shmeia-pyrhnikwn-katastrofwn",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/nathaniel-janowitz",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/life",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/in-photos-h-zwh-sth-skia-enos-oryxeioy-li8ioy",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/susi-maresca",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%ce%bc%ce%bf%cf%85%cf%83%ce%b9%ce%ba%ce%ae",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/dance-with-the-devil-milhsame-me-ton-an8rwpo-pisw-apo-to-hit-poy-anastatwse-thn-ellada",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/antwnhs-kwnstantaras",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/episthmones-proeidopoioyn-oti-h-koinwnia-mas-mporei-na-katarreysei-ayton-ton-aiwna",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/becky-ferreira",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/pws-na-sthri3eis-enan-syntrofo-poy-exei-taseis-aytoktonias",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/djanlissa-pringels",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%ce%bd%ce%ad%ce%b1",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/h-impiza-skeftetai-na-ri3ei-porta-stoys-bretanoys-toyristes",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/ella-glossop",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/%cf%83%ce%b5%ce%be",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/pws-einai-na-kaneis-se3-otan-eisai-egkyos",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/ana-tepsanu",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/article/o-dhmhtrhs-samolhs-dhmioyrgei-texnh-mesa-apo-thn-kardia-toy",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/contributor/niobh-anazikoy",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/page/2",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/health",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.vice.com/el/category/music",
+    "discoveredFrom": "https://www.vice.com/el"
+  },
+  {
+    "url": "https://www.instagram.com/vicearabia",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.youtube.com/@VICEArabia",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.facebook.com/vicearabia",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/2023-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%82%d8%a7%d9%88%d9%85%d8%aa-%d9%81%d9%8a%d9%87-%d8%a7%d9%84%d8%ad%d9%8a%d9%88%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b4%d8%b1",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/joe-zadeh",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/8-%d8%af%d8%b1%d9%88%d8%b3-%d8%aa%d8%b9%d9%84%d9%85%d8%aa%d9%87%d8%a7-%d9%81%d9%8a-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%b9%d8%a7%d9%85",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/ghiwa",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%a3%d8%a8%d8%b1%d8%b2-%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%b9%d8%a7%d9%85-2023-%d8%a7%d9%84%d8%aa%d9%8a-%d8%a3%d8%ab%d8%a7%d8%b1%d8%aa-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%b9%d8%b1%d8%a8",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/%d8%a2%d9%8a%d8%a9-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b1%d8%ba%d9%85-%d9%85%d9%86-%d9%83%d9%88%d9%86%d9%87%d8%a7-%d8%a5%d8%ad%d8%af%d9%89-%d8%a3%d8%b3%d9%88%d8%a3-%d8%a7%d9%84%d8%a3%d8%b9%d9%88%d8%a7%d9%85-%d9%81%d9%8a",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/%d8%ba%d9%8a%d8%af%d8%a7%d8%a1",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d9%87%d9%84-%d9%87%d8%b0%d9%87-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d9%85%d9%88%d8%b3%d9%8a%d9%82%d9%89-%d8%a7%d9%84%d9%87",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/%d8%b5%d8%a7%d8%af%d9%82-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d9%86%d9%8a",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%b5%d9%88%d8%b1-%d8%aa%d8%ad%d9%83%d9%8a-%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a-%d8%a8%d9%84%d9%85%d8%b3%d8%a9-%d9%85",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/%d9%81%d8%b1%d9%8a%d9%82-vice-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a9-%d9%85%d8%b9-%d8%ad%d9%86%d8%a7-%d8%b9%d8%b7%d8%a7%d9%84%d9%84%d9%87%d8%8c-%d9%85%d8%a4%d8%b3%d8%b3-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a3%d9%8a%d8%a7%d9%85",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/hager",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%b3%d8%a3%d9%84%d9%86%d8%a7-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%b9%d8%b1%d8%a8-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d8%a7%d9%84%d8%aa%d8%b2%d9%84%d8%ac-%d8%a8%d8%a7%d9%84%d9%86%d8%b3%d8%a8",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/sami-abdel-baki",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%b3%d8%aa%d9%85%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6%d8%8c-%d9%88%d9%83%d8%b0%d9%84%d9%83-%d8%a7",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/contributor/%d8%b9%d8%a8%d9%8a%d8%b1-%d8%a3%d9%8a%d9%88%d8%a8",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%b3%d8%aa%d8%a7%d8%b1%d8%a8%d9%83%d8%b3-%d8%aa%d8%ae%d8%b3%d8%b1-11-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%82%d9%8a%d9%85%d8%a9-%d8%a7%d9%84",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d9%86%d8%a8%d8%b0%d8%a9-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%b2%d9%84%d8%ac-%d9%81%d9%8a-%d8%a7%d9%84%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/article/%d8%b5%d9%88%d8%b1-%d8%ae%d9%84%d8%a7%d8%a8%d8%a9-%d9%85%d9%86-%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d9%85%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d8%a9-%d9%84%d8%b9%d8%a7%d9%85-2023",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/page/2",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/category/health",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.vice.com/ar/category/music",
+    "discoveredFrom": "https://www.vice.com/ar"
+  },
+  {
+    "url": "https://www.instagram.com/vicejapan",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.youtube.com/user/VICEjpch",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.facebook.com/VICEJAPAN",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/sex-during-pregnancy-what-its-like",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/ana-tepsanu",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/my-friend-the-heroin-addict-mikkel-horlyck-photographs",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/mateo-vigne",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/giya-makondo-wills-photos-south-africa",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/cbd-thc-difference",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/vice-staff",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/mc-mamushi-interview-athletes-mind-amazon-audible-release",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/shawn-woody-motoyoshi",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/how-to-make-a-sex-tape-according-to-a-former-porn-star",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/djanlissa-pringels",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/category/%ce%bd%ce%ad%ce%b1",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/brain-worm-parasite-australia",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/beulah-rajkumar",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/category/life",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/tim-anderson-rick-parker-poison-bribes-murder-heavyweight-boxing",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/nick-thompson",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/its-getting-too-hot-for-tropical-trees-to-photosynthesize-scientists-warn",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/becky-ferreira",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/worst-std-stories",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/contributor/milou-deelen",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/budxuncovered-curated-by-verdy",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/article/adhd-myths-from-people-who-have-it",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/page/2",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/category/health",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.vice.com/ja/category/music",
+    "discoveredFrom": "https://www.vice.com/ja"
+  },
+  {
+    "url": "https://www.instagram.com/vice_kr",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.facebook.com/VICE-Korea-104021560943458",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/guide-studio-ghibli-watch-stream-netflix-miyazaki-anime-japan",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/heather-chen",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/how-to-stay-friends-with-your-ex",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/anna-pulley",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/zing-tsjeng",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/straight-guy-but-fantasise-about-male-friend-advice",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/vincenzo-ligresti",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/everyone-hates-me-anxiety-psychology-mental-health",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/romano-santos",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/%ce%b4%ce%b9%ce%b1%cf%83%ce%ba%ce%ad%ce%b4%ce%b1%cf%83%ce%b7",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/photos-japanese-zentai-empowerment-fetish",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/hayato-nakabayashi",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/sex-intercourse-mri-scanner-for-science",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/julian-morgans",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/scientists-finally-found-out-what-a-monkey-mermaid-mummy-really-is",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/hanako-montgomery",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/relationships-dating-breaking-up-quiet-quitting-dumping",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/arman-khan",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/news",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/china-artist-zero-covid-disappears",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/rachel-cheung",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/why-do-i-always-want-to-bite-the-people-i-love",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/contributor/dani-ran",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/conversation-study-mental-health-tips-science",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/life",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/article/i-tried-bondee-so-i-can-finally-live-with-my-friends",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/page/2",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/health",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/horoscopes",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/ko/category/music",
+    "discoveredFrom": "https://www.vice.com/ko"
+  },
+  {
+    "url": "https://www.vice.com/en/category/announcements",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/article/vice-magazine-is-coming-back?share=x&nb=1",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/article/vice-magazine-is-coming-back?share=facebook&nb=1",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/not-the-photo-issue-2026",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "http://vice.com/stockists",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "http://vice.com/membership",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/privacy-policy",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/terms-of-use",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/tag/vice-magazine",
+    "discoveredFrom": "https://www.vice.com/en/article/vice-magazine-is-coming-back"
+  },
+  {
+    "url": "https://www.vice.com/en/article/exclusive-an-ex-un-officer-reveals-his-secret-double-life-of-cocaine-addiction",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/ancient-romans-used-poop-as-medicine-researchers-confirm",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/how-bird-poop-helped-make-ancient-peru-a-superpower",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/did-volcanoes-on-mars-erupt-during-the-last-days-of-the-dinosaurs",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/a-flying-pig-knocked-out-power-to-an-entire-village-in-china",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/brazil-passed-a-new-law-inspired-by-a-dogs-10-year-grave-vigil-heres-what-it-does",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/this-comet-suddenly-started-spinning-backward-near-the-sun-and-scientists-dont-know-why",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/everything-we-know-about-the-giant-fireball-that-just-lit-up-the-midwest-sky",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/how-scientists-hacked-peoples-dreams-to-help-them-solve-real-life-puzzles",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/did-nasa-find-life-on-mars-50-years-ago-and-accidentally-kill-it",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/california-spent-more-on-onlyfans-in-2025-than-the-average-californian-would-make-in-3000-years",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/caitlin-berard",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/article/party-balloons-and-lasers-everything-we-know-about-the-el-paso-airspace-shutdown",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/category/news/page/2",
+    "discoveredFrom": "https://www.vice.com/en/category/news"
+  },
+  {
+    "url": "https://www.vice.com/en/category/relationships",
+    "discoveredFrom": "https://www.vice.com/en/category/life"
+  },
+  {
+    "url": "https://www.vice.com/en/article/4-signs-your-partner-has-a-victim-mentality-according-to-a-therapist",
+    "discoveredFrom": "https://www.vice.com/en/category/life"
+  },
+  {
+    "url": "https://www.vice.com/en/article/archaeologists-may-have-identified-the-earliest-known-scientist-in-the-americas",
+    "discoveredFrom": "https://www.vice.com/en/category/life"
+  },
+  {
+    "url": "https://www.vice.com/en/article/seagulls-are-getting-drunk-on-flying-ants-and-stumbling-into-traffic",
+    "discoveredFrom": "https://www.vice.com/en/category/life"
+  },
+  {
+    "url": "https://www.vice.com/en/category/life/page/2",
+    "discoveredFrom": "https://www.vice.com/en/category/life"
+  },
+  {
+    "url": "https://www.vice.com/en/article/someone-made-a-fake-wikipedia-for-ai-hallucinations-and-its-basically-the-internet-eating-itself",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/bitcoin-creator-satoshi-nakamotos-true-identity-has-been-revealed-or-has-it",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/whos-really-driving-your-tesla-robotaxi",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/try-vertical-browser-tabs",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/mini-sports-cars-for-adults-are-a-thing-now-and-they-can-hit-50-mph",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/duckduckgo-ai-edit-images",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/whatsapp-vpn-recommendations",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/arpa-domain-hackers",
+    "discoveredFrom": "https://www.vice.com/en/section/tech"
+  },
+  {
+    "url": "https://www.vice.com/en/article/vanessa-lavorato-hits-up-ann-arbor-for-edibles-eats-with-the-citys-chillest-chefs",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/category/food",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/vice-staff-2",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-born-and-raised-chinatown-restaurateur-who-bet-on-the-neighborhood-that-raised-him",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/best-valentines-day-chocolate-delivery",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/non-alcoholic-beers-worth-trying-for-dry-january",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/tatiana-tenreyro",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/elle-simone-scott-dead-at-49",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/this-christmas-you-can-live-mas-with-taco-bells-return-of-the-quesarito",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/gavin-rossdale-names-his-8-favorite-restaurants-in-the-world",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/daniel-kohn",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/cannatela-thc-snack-spread-reveiw",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/beat-bobby-flay-season-41-dishes-bobby-flay-deserved-wins",
+    "discoveredFrom": "https://www.vice.com/en/section/munchies"
+  },
+  {
+    "url": "https://www.vice.com/en/article/4-grunge-songs-from-the-1990s-with-melodies-that-are-just-as-infectious-almost-three-decades-later",
+    "discoveredFrom": "https://www.vice.com/en/section/music"
+  },
+  {
+    "url": "https://www.vice.com/en/article/full-blown-crash-out-pop-star-caught-smashing-a-car-with-a-sledgehammer-in-broad-daylight",
+    "discoveredFrom": "https://www.vice.com/en/section/music"
+  },
+  {
+    "url": "https://www.vice.com/en/article/play-marvel-tokon-fighting-souls-for-free-before-it-launches",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/magic-the-gathering-stardew-valley-crossover-is-actually-happening",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/fortnite-shiny-hours-start-times-rewards-sprites",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/zelda-ocarina-of-time-remake-pre-order-date-leak",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/dd-beyonds-spire-of-secrets-adds-a-dozen-new-subclasses-one-for-every-class",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/xbox-rolls-out-a-dozen-new-console-features-in-surprise-update",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/article/a-retro-inspired-2d-brawler-is-coming-to-ps-plus",
+    "discoveredFrom": "https://www.vice.com/en/section/waypoint"
+  },
+  {
+    "url": "https://www.vice.com/en/category/comics",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/category/the-graveyard-shift",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/confidence-comic-by-ben-mendelewicz",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/dean-kissick-vice-magazine-shanghai",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/dean-kissick",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/tripsitting-the-mega-rich",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/amber-rawlings",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/sunset-on-the-dark-enlightenment-inside-nick-lands-san-francisco-arrival-party",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/nick-dove",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-vice-propaganda-report-2026",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/madonna-the-last-strip-club-in-miami-beach",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/narco-pilot-mexico-documentary",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/category/exclusive-member-video",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-optimized-woman",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/emma-stern",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/arvida-bystrom",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/is-shouting-heil-hitler-jestermaxxing-the-riddle-of-clavicular",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/category/day-of-the-pillow",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/elysian-feels-a-park-despoiled-los-angeles-dogging",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/contributor/ivar-wigan",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/membership",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/leaving-the-21st-century-adam-curtis-talks-to-dean-kissick",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.vice.com/en/article/the-real-life-replicant-hunter",
+    "discoveredFrom": "https://www.vice.com/en/section/membership"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/about",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/about/press",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/about/copyright",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/t/contact_us",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/creators",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/ads",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://developers.google.com/youtube",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/t/terms",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/t/privacy",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/about/policies",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/howyoutubeworks?utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/new",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://tv.youtube.com/learn/nflsundayticket",
+    "discoveredFrom": "https://www.youtube.com/user/vice"
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCn8zNIfYAQNdrFRrr8oibKw",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.facebook.com/VICE",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.instagram.com/vice",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://twitter.com/VICE",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.tiktok.com/@vice",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vice_%28magazine%29",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://m.youtube.com/shorts/RpSbNuKpcBw",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H0q6gPY8VH4",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4cz5iG12wQ8",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bB5U9T9KZC8",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/Ugkxw9pYiifQc_ePQ831OdasQg7VoUcNJ1gG",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UODb_l2j_PI",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=r8kpOGuCXe4",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/UgkxNGv8jWxye1PS4nh-D4y80lFTvgSLDiNl",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZTEsUqAyaR4",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/Ugkx8AeKIjKx1wy6nB-DAev98jf8qKezhjK7",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tnPnwsfyYnA",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/UgkxdpVpdfRLz-DXFIY-Ee6dlAzeF51FtoU8",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/UgkxIM4fEnNYECH7eIy2faASZH4z7l8o-8HE",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=h93zScSbjTs",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MH-Q_CpyXsU",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fkV-6V18J9g",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/post/UgkxtdCFsUbb4Z_RnfRBfVyTiMuzZ6Ny35hK",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kmmxa4Z6Y7k",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Xt8GT-zZJb4",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o6Mt_Qn77ig",
+    "discoveredFrom": "https://profile.google.com/cp/CgkvbS8wMzR2Zmg"
+  }
+]
