@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Mini Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="home" class="home">
+    <div class="logo" aria-label="Mini Search">
+      <span>M</span><span>i</span><span>n</span><span>i</span><strong>Search</strong>
+    </div>
+
+    <form id="homeForm" class="home-form">
+      <input id="homeInput" type="search" placeholder="Search indexed websites" autocomplete="off">
+      <div class="buttons">
+        <button type="submit">Search</button>
+        <button id="browseAll" type="button">Browse all pages</button>
+      </div>
+    </form>
+
+    <p id="homeStatus">Loading index…</p>
+  </main>
+
+  <main id="results" class="results hidden">
+    <header class="topbar">
+      <button id="backHome" class="brand-button" type="button">Mini Search</button>
+      <form id="resultsForm">
+        <input id="resultsInput" type="search" autocomplete="off">
+        <button type="submit">Search</button>
+      </form>
+    </header>
+
+    <section class="results-body">
+      <p id="resultCount"></p>
+      <div id="resultList"></div>
+      <nav id="pagination"></nav>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
