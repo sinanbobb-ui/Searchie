@@ -1,0 +1,65 @@
+name: Crawl and Deploy Search Index
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    env:
+      MAX_PAGES: 50
+      REQUEST_DELAY_MS: 2500
+      CRAWLER_USER_AGENT: "MiniSearchCrawler/3.0 (+${{ github.server_url }}/${{ github.repository }})"
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install crawler packages
+        run: npm install
+
+      - name: Run crawler
+        run: npm run crawl
+
+      - name: Save updated crawl data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/index.json data/queue.json
+          git diff --cached --quiet || git commit -m "Update search index"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
